@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5efe4be4-836f-418d-9256-040c08669107" name="Default Changelist" comment="Feature: Added navbar, hero image, hero text, and footer">
+    <list default="true" id="5efe4be4-836f-418d-9256-040c08669107" name="Default Changelist" comment="Task: updated favicon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608152200762</updated>
       <workItem from="1608152201967" duration="12000" />
-      <workItem from="1608153342531" duration="16992000" />
+      <workItem from="1608153342531" duration="23662000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Added navbar, hero image, hero text, and footer">
       <created>1608250843538</created>
@@ -72,7 +71,28 @@
       <option name="project" value="LOCAL" />
       <updated>1608250843538</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BUg: fixed visibility of favicon">
+      <created>1608251943283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608251943283</updated>
+    </task>
+    <task id="LOCAL-00003" summary="BUg: fixed visibility of favicon">
+      <created>1608324702405</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608324702405</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task: updated favicon">
+      <created>1608325023350</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608325023350</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +100,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: Added navbar, hero image, hero text, and footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added navbar, hero image, hero text, and footer" />
+    <MESSAGE value="BUg: fixed visibility of favicon" />
+    <MESSAGE value="Task: updated favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: updated favicon" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608154606887">
@@ -99,9 +121,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="415" y="66" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1608153600145" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1608250896324">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1608325025834">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1608250896324" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1608325025834" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1608252045712" />
   </component>
 </project>
