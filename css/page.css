@@ -65,6 +65,10 @@ a, p {
   margin-bottom: 2rem;
 }
 
+.card-body {
+  background-color: #242A30;
+}
+
 .masthead-brand {
   margin-bottom: 0;
 }
