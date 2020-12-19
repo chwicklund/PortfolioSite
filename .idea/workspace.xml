@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5efe4be4-836f-418d-9256-040c08669107" name="Default Changelist" comment="Task: updated formatting">
+    <list default="true" id="5efe4be4-836f-418d-9256-040c08669107" name="Default Changelist" comment="Feature: implemented Google Analytics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608152200762</updated>
       <workItem from="1608152201967" duration="12000" />
-      <workItem from="1608153342531" duration="32059000" />
+      <workItem from="1608153342531" duration="33413000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Added navbar, hero image, hero text, and footer">
       <created>1608250843538</created>
@@ -143,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608358284086</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Task: updated footer">
+      <created>1608359388742</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608359388743</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Feature: implemented Google Analytics">
+      <created>1608359612048</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608359612048</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +170,9 @@
     <MESSAGE value="Task: added image for about page" />
     <MESSAGE value="Task: added image for project page" />
     <MESSAGE value="Task: updated formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: updated formatting" />
+    <MESSAGE value="Task: updated footer" />
+    <MESSAGE value="Feature: implemented Google Analytics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: implemented Google Analytics" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="108" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608154606887">
@@ -179,9 +192,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="415" y="66" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1608153600145" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1608345549150">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="350" y="-939" key="Vcs.Push.Dialog.v2" timestamp="1608359622991">
+      <screen x="0" y="-1080" width="1920" height="1080" />
     </state>
+    <state x="350" y="-939" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.-1080.1920.1080" timestamp="1608359622991" />
     <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1608345549150" />
     <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1608252045712" />
     <state x="241" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608346922928">
