@@ -43,6 +43,7 @@ body {
   text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
 
 
+
 }
 
 .cover-container {
@@ -124,7 +125,7 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-color: #343A40;
+  background-color: #107896;
   background-size: cover;
   overflow-y: scroll;
 }
