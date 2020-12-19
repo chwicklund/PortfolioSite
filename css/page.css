@@ -67,7 +67,7 @@ a, p {
 }
 
 .card-body {
-  background-color: #242A30;
+  border-color: transparent;
 }
 
 .masthead-brand {
@@ -125,7 +125,7 @@ body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-color: #107896;
+  background-color: #323242;
   background-size: cover;
   overflow-y: scroll;
 }
